@@ -7,8 +7,14 @@
 <p align="center">
   Bienvenidos a mis repositorios soy un apasionado por la tecnologia, me parece espectacular todo lo que podemos lograr en conjunto con ella. mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
 </p>
+
+<div align="center">
+
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+</div>
+  
+
 
 <h3 font-weight="bold"> Programming languages </h3>
      <p align="">
