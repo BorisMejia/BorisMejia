@@ -5,7 +5,7 @@
   </h1>
 
 <p align="center">
-  Bienvenidos a mis repositorios soy un apasionado por la tecnologia, me parece espectacular todo lo que podemos lograr en conjunto con ella. mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
+  Bienvenidos a mis repositorios, soy un apasionado por la tecnologia, me parece espectacular todo lo que podemos lograr en conjunto con ella. Mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
 </p>
 
 <div align="center">
