@@ -19,7 +19,7 @@
 <h3 font-weight="bold"> Programming languages </h3>
      <p align="">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,py,js,&perline=14" />
+        <img src="https://skillicons.dev/icons?i=java,ts,&perline=14" />
       </a>
     </p>
  
@@ -28,7 +28,14 @@
 
   <p align="">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,fastapi,react,&perline=14" />
+      <img src="https://skillicons.dev/icons?i=spring,angular,&perline=14" />
+    </a>
+  </p>
+  
+<h3 font-weight="bold"> Database </h3> 
+   <p align="">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,,&perline=14" />
     </a>
   </p>
 
@@ -36,15 +43,14 @@
 
    <p align="">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=azure,jenkins,docker,kubernetes,&perline=14" />
+      <img src="https://skillicons.dev/icons?i=azure,aws,jenkins,docker,kubernetes,&perline=14" />
     </a>
   </p>
-
 
   <h3 font-weight="bold"> Softwares and Tools </h3>
      <p align="">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git,gradle,maven,nginx,npm,postman,rabbitmq,&perline=14" />
+        <img src="https://skillicons.dev/icons?i=linux,git,gradle,maven,nginx,npm,postman,rabbitmq,kafka,&perline=14" />
       </a>
     </p>
 
