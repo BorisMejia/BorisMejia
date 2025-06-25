@@ -5,7 +5,7 @@
   </h1>
 
 <p align="center">
-  Bienvenidos a mis repositorios, soy un apasionado por la tecnologia, me parece espectacular todo lo que podemos lograr en conjunto con ella. Mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
+  Bienvenidos a mi repositorio, soy un desarrollador Backend por la tecnologia, me parece espectacular todo lo que podemos lograr en conjunto con ella. Mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
 </p>
 
 <div align="center">
@@ -55,6 +55,9 @@
     </p>
 
 <h3 font-weight="bold"> Work Experience </h3>
+
+**Desarrollador Fulltack Freelance Ene 2025 - Actualmente**
   
 **Técnico en Desarrollo de Software SURA JUN 16 2023 - DEC 14 2024**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
