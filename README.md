@@ -5,7 +5,11 @@
   </h1>
 
 <p align="center">
-  Bienvenidos a mi repositorio, soy un desarrollador Backend, me parece espectacular todo lo que podemos lograr en conjunto con ella. Mi enfoque y experiencia es mayormente en java con spring y python con fastapi, me enfoco en la mejora, rendimiento y seguridad de apis y microservicios, tambien cuento con conocimiento basicos en html, css y javascript utilizando react.
+  Bienvenidos a mi repositorio, soy un Desarrollador Backend con enfoque Full Stack, experiencia en desarrollo y mantenimiento de aplicaciones en diferentes estilos de 
+programación: Reactiva, Imperativa, Declarativa, POO y Funcional, utilizando Java con Spring y TypeScript con Angular. Enfocado en mejorar 
+la seguridad, el rendimiento y la calidad de las APIs y microservicios, aplicando buenas prácticas de programación y principios SOLID. Cuento 
+con conocimientos sólidos en bases de datos relacionales y no relacionales, así como experiencia en prácticas DevOps y herramientas como 
+Docker, Jenkins, Azure DevOps y GitHub Actions para la creación de pipelines CI/CD. Manejo de servicios en la nube de AWS y Azure.
 </p>
 
 <div align="center">
