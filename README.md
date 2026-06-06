@@ -60,6 +60,8 @@ Docker, Jenkins, Azure DevOps y GitHub Actions para la creación de pipelines CI
 
 <h3 font-weight="bold"> Work Experience </h3>
 
+**Desarrollador Backend Analista 3 NEQUI DIC 2025 - Actualmente**
+
 **Desarrollador Fulltack Freelance Ene 2025 - Actualmente**
   
 **Técnico en Desarrollo de Software SURA JUN 16 2023 - DEC 14 2024**
